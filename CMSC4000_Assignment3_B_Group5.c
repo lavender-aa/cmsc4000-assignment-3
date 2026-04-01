@@ -12,7 +12,6 @@
 */
 
 
-// part B -- book figure 2.33
 #include "util.h"
 
 
@@ -45,8 +44,6 @@ void* producer_work(void* data) {
         pthread_mutex_unlock(&prod_mutex);
     }
     end_produced = true;
-
-    // pthread_exit(NULL);
 }
 
 // take number-by-number to check if prime
@@ -85,7 +82,6 @@ void* consumer_work(void* data) {
         }
     }
     printf("thread %d finished\n", thread_num);
-    // pthread_exit(NULL);
 }
 
 
