@@ -52,7 +52,7 @@ The following has been modified:
 - The limit check begins with `k=2` instead of `k=3` (result of fixed guard clauses)
 ## Results and Analysis
 Below are two graphs:
-- Figure A.1: number of threads vs average runtime (over 10 runs)
+- Figure A.1: number of threads vs average runtime (over 3 runs)
 - Figure A.2: number of threads vs thread number number of primes found (constant across runs).
   
 \[figures A.1, A.2]

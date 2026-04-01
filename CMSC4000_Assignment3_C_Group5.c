@@ -2,12 +2,12 @@
 
 /*
     time(real) vs # threads
-            1      2      3      4      5      6      7      8      9     10
-   16:  xx.xx  xx.xx  xx.xx  xx.xx  xx.xx  xx.xx  xx.xx  xx.xx  xx.xx  xx.xx
-    8:  xx.xx  xx.xx  xx.xx  xx.xx  xx.xx  xx.xx  xx.xx  xx.xx  xx.xx  xx.xx
-    4:  xx.xx  xx.xx  xx.xx  xx.xx  xx.xx  xx.xx  xx.xx  xx.xx  xx.xx  xx.xx
-    3: xxx.xx xxx.xx xxx.xx xxx.xx xxx.xx xxx.xx xxx.xx xxx.xx xxx.xx xxx.xx
-    2: xxx.xx xxx.xx xxx.xx xxx.xx xxx.xx xxx.xx xxx.xx xxx.xx xxx.xx xxx.xx
+            1      2      3
+   16:  xx.xx  xx.xx  xx.xx
+    8:  xx.xx  xx.xx  xx.xx
+    4:  xx.xx  xx.xx  xx.xx
+    3: xxx.xx xxx.xx xxx.xx
+    2: xxx.xx xxx.xx xxx.xx
 */
 
 
