@@ -52,7 +52,7 @@ void* thread_work(void* data) {
     // iterate over numbers in range
     for(u64 i = start; i <= end; i++) {
 
-        if(isPrime(i)) {
+        if(is_prime(i)) {
             // data mutex for shared resource (num_primes)
             pthread_mutex_lock(&data_mutex);
             num_primes++;

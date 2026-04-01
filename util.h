@@ -44,7 +44,7 @@ FILE* output;
 
 // this had to be changed; the original returned
 // that `1` is prime (it is not). 
-bool isPrime(u64 n) {
+bool is_prime(u64 n) {
     u64 k, limit;
 
     // guard clauses
