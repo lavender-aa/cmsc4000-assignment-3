@@ -1,0 +1,17 @@
+# whitelist gitignore
+*
+!*/
+
+
+
+# include:
+
+# repo stuff (gitignore, readme)
+!.gitignore
+!README.md
+
+# c source files
+!*.c
+
+# part D markdown file
+!CMSC4000_Assignment3_D_Group5.md
