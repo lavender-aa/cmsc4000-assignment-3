@@ -11,26 +11,6 @@
     1: xxx.xx xxx.xx xxx.xx xxx.xx xxx.xx xxx.xx xxx.xx xxx.xx xxx.xx xxx.xx
 */
 
-/*
-     number of primes found by each thread (in order; 0-n)
-     will be different each time.. TODO: what to do
-    16: x x x x
-        x x x x
-        x x x x
-        x x x x
-
-    8: x x x x
-       x x x x
-
-    4: x x x x
-
-    3: x x x
-
-    2: x x
-
-    1: 106
-*/
-
 
 // part B -- book figure 2.33
 #include "util.h"
