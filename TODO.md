@@ -11,12 +11,12 @@ Part B:
 - [ ] create graphs (desmos)
 
 Part C:
-- [ ] write code
+- [x] write code
 - [ ] record metrics
 - [ ] create graphs (desmos)
 
 Part D:
 - [ ] add graphs (screenshots/exports) to relevant sections
 - [ ] write summary of results
-- [ ] write comparisons ()
+- [ ] write comparisons (part B, part C)
 - [ ] link desmos folder
