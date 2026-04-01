@@ -6,7 +6,7 @@ Part A:
 - [ ] create graphs (desmos)
 
 Part B:
-- [ ] write code -- in progress
+- [x] write code
 - [ ] record metrics
 - [ ] create graphs (desmos)
 
