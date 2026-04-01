@@ -2,11 +2,11 @@
 
 Part A:
 - [x] write code
-- [/] record metrics
+- [ ] record metrics -- in progress
 - [ ] create graphs (desmos)
 
 Part B:
-- [/] write code
+- [ ] write code -- in progress
 - [ ] record metrics
 - [ ] create graphs (desmos)
 
