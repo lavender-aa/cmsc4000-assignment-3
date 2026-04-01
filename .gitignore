@@ -13,5 +13,8 @@
 # c source files
 !*.c
 
+# c header files
+!*.h
+
 # part D markdown file
 !CMSC4000_Assignment3_D_Group5.md
