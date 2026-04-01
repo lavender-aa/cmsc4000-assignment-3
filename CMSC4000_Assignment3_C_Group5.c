@@ -118,7 +118,7 @@ int main() {
     // join all threads (1 producer, n consumers)
     pthread_join(producer, NULL);
     for(int i=0; i<NUM_THREADS; i++) {
-        pthread_join(threads[i], NULL); // segfault: descriptor not valid
+        pthread_join(threads[i], NULL);
     }
 
     // stop clock (benchmarking)
