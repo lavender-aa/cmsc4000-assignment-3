@@ -3,11 +3,11 @@
 /*
     time(real) vs # threads
             1      2      3
-   16:  xx.xx  xx.xx  xx.xx
-    8:  xx.xx  xx.xx  xx.xx
-    4:  xx.xx  xx.xx  xx.xx
-    3: xxx.xx xxx.xx xxx.xx
-    2: xxx.xx xxx.xx xxx.xx
+   16:  43.93  44.49  44.88
+    8:  46.21  46.45  46.82
+    4:  85.01  84.77  84.33
+    3: 111.48 111.64 111.80
+    2: 163.11 163.16 163.04
 */
 
 

@@ -56,7 +56,7 @@ Below are two graphs:
 - Figure A.2: number of threads vs thread number number of primes found (constant across runs).
   
 \[figures A.1, A.2]
-
+y
 Given that the latter graph is 3d, its individual slices can be viewed in [[#Appendix A]]. Additionally, all graphs used in this report are available [online(TODO: link)].
 
 # Part B

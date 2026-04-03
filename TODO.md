@@ -2,17 +2,17 @@
 
 Part A:
 - [x] write code
-- [ ] record metrics -- in progress
+- [x] record metrics -- in progress
 - [ ] create graphs (desmos)
 
 Part B:
 - [x] write code
-- [ ] record metrics
+- [x] record metrics
 - [ ] create graphs (desmos)
 
 Part C:
 - [x] write code
-- [ ] record metrics
+- [x] record metrics
 - [ ] create graphs (desmos)
 
 Part D:
